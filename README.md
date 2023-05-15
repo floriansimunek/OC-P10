@@ -66,14 +66,14 @@
 -   Je peux voir mes tâches à faire et mes futurs rendez-vous (avec tuteur ou élève)
 -   Je peux ajouter une nouvelle tâche directement sur le Calendrier (RDV ou ToDo)
 
-
 ### TEST
 
 <table>
   <tr>
     <th>id</th>
-    <th>name</th>
-    <th>description</th>
+    <th>As a [type of user]</th>
+    <th>I want to [perform some task]</th>
+    <th>so that i can [achieve some goal]</th>
   </tr>
 
   <tr>
@@ -92,5 +92,8 @@
         <li><strong>Cool</strong></li>
       </ul>
     </td>
+  </tr>
+  <tr>
+    
   </tr>
 </table>

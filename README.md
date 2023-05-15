@@ -65,3 +65,32 @@
 
 -   Je peux voir mes tâches à faire et mes futurs rendez-vous (avec tuteur ou élève)
 -   Je peux ajouter une nouvelle tâche directement sur le Calendrier (RDV ou ToDo)
+
+
+### TEST
+
+<table>
+  <tr>
+    <th>id</th>
+    <th>name</th>
+    <th>description</th>
+  </tr>
+
+  <tr>
+    <td><code>12</code></td>
+    <td>toto</td>
+    <td>Ceci est un <br> exemple de retour à la ligne</td>
+  </tr>
+  <tr>
+    <td><code>13</code></td>
+    <td>tata</td>
+    <td>
+      On peut aussi mettre des listes :
+      <ul>
+        <li>C'est</li>
+        <li>Vraiment</li>
+        <li><strong>Cool</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
